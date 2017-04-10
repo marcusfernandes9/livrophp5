@@ -1,5 +1,5 @@
 <?php
- 
+  
 include_once 'app.ado/TExpression.class.php';
 include_once 'app.ado/TFilter.class.php';
 
